@@ -1,7 +1,7 @@
 const toggleMenu = document.getElementById('Togglebtn');
 toggleMenu.addEventListener('click', () => {
   const toggleMenu = document.getElementById('navigation');
-  toggleMenu.classList.toggle(); 
+  toggleMenu.classList.toggle();
 });
 const CloseMenu = document.getElementById('Closebtn');
 CloseMenu.addEventListener('click', () => {
